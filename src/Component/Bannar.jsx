@@ -46,7 +46,7 @@ const Bannar = () => {
 
 
 
-              <div className="col-span-6 relative flex items-center justify-center mt-[-280px] ml-[800px]">
+              <div className="col-span-6 relative flex items-center justify-center mt-[-280px] ml-[680px]">
                 
                 <div className="absolute inset-0 bg-[repeating-linear-gradient(90deg,rgba(255,255,255,0.05)_0px,rgba(255,255,255,0.05)_2px,transparent_2px,transparent_24px)] mt-[-250px] h-[1000px]" />
 
@@ -71,7 +71,7 @@ const Bannar = () => {
             </div>
           </div>
 
-          <div className='mt-[-420px] ml-[1450px]'>
+          <div className='mt-[-420px] ml-[1350px]'>
             <div className="flex flex-col gap-3 items-center">
               <span className="w-2 h-2 rounded-full bg-red-600 " />
               <span className="w-2 h-2 rounded-full bg-white/50" />

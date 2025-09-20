@@ -17,7 +17,7 @@ const NavBar = () => {
                         <div className='w-[25px] h-[32px]'>
                             <img src={p} alt="" className='ml-10'/>
                         </div>
-                        <div className='text-white flex gap-4 ml-15'>
+                        <div className='text-white flex gap-8 ml-15'>
                             <FaFacebookF />
                             <IoLogoTwitter />
                             <FaLinkedinIn />
@@ -26,7 +26,7 @@ const NavBar = () => {
 
                     
                     <div>
-                        <ul className='text-white flex gap-4 mt-6 text-[14px]'>
+                        <ul className='text-white flex gap-6 mt-6 text-[12px] ml-[350px]'>
                             <li>
                                 <Link to="/" className="text-[#B66449]">
                                     HOME

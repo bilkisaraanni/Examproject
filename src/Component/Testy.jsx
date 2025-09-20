@@ -66,7 +66,7 @@ const Testy = () => {
                             </div>
 
 
-                            <div className='w-[700px] h-[600px] bg-white mt-10 ml-10'>
+                            <div className='w-[700px] h-[600px] bg-[#C4C4C4] mt-10 ml-10'>
 
                             </div>
 

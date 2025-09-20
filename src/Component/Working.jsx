@@ -18,11 +18,11 @@ const Working = () => {
         <>
             <Container>
                 <div>
-                    <div>
-                        <div className=''>
-                            <img src={bgimg} alt="" />
-                        </div>
+
+                    <div className=''>
+                        <img src={bgimg} alt="" />
                     </div>
+
 
                     <div className='flex'>
                         <div className='space-y-60 mt-[-800px] ml-10'>
@@ -114,8 +114,8 @@ const Working = () => {
 
                         </div>
 
-                        
-                          <div className='mt-[-500px] ml-[20px]'>
+
+                        <div className='mt-[-500px] ml-[20px]'>
                             <div className="flex flex-col gap-3 items-center \">
                                 <span className="w-2 h-2 rounded-full bg-red-600 " />
                                 <span className="w-2 h-2 rounded-full bg-white/50" />
@@ -124,7 +124,7 @@ const Working = () => {
                                 <span className="w-2 h-2 rounded-full bg-white/50" />
                             </div>
                         </div>
-            
+
                     </div>
                 </div>
             </Container>

@@ -9,6 +9,7 @@ import PageAwward from "./Pages/PageAwward.jsx";
 import PageMemory from "./Pages/PageMemory.jsx";
 import PageWorking from "./Pages/PageWorking.jsx";
 import PageFrom from "./Pages/PageFrom.jsx";
+import PageContact from "./Pages/PageContact.jsx";
 
 const router = createBrowserRouter([
   {
@@ -42,6 +43,11 @@ const router = createBrowserRouter([
       {
         path: "from",
         element: <PageFrom />, 
+      },
+
+      {
+        path: "contact",
+        element: <PageContact/>, 
       },
     ],
   },
